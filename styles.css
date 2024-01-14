@@ -1,0 +1,42 @@
+body{background-color:  #2D0000; color: rgb(255, 0, 0); margin: 20px;}  
+#title{ border: 3px solid black;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/866/348/40/1366x768-px-anime-d-vampire-hunter-damphir-vampire-hunter-d-animals-fish-hd-art-wallpaper-preview.jpg) ;background-position: center ;
+  background-size: cover;
+  display: block;
+text-align: center; font-family: "Explora", serif;
+padding: 100px;
+font-size: 100px;
+margin: 20px;
+font-style: normal;
+background-color:  #2D0000;
+color: red;
+box-shadow: 0px 0px 15px ;}
+.nav-underline a{color: red; text-align: center; font-family: "Explora", serif; font-size: 32px;}
+.nav-underline a:hover{color: red; }
+.nav-underline a:active{color: red;}
+.nav-underline {margin: 20px 20px 10px 20px;}
+h1{text-align: center;
+margin-bottom: 40px; color: red; text-align: center; font-family: "Explora", serif; font-size: 50px; font-weight: 600;}
+
+.container-sm1{margin-bottom: 20px; display: flex; 
+    font-family: "Eczar", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+ .container-sm2 .carousel{margin-top: 20px; font-family: "Eczar", serif;
+  font-optical-sizing: auto;
+  font-style: normal; width: 650px; }
+  .container-sm2{display: flex;
+  justify-content: center;} 
+  img{ transition: all 1s;}
+  img:hover{transform: scale(1.1);
+  cursor: pointer;}
+  .container-sm2 img{height: 400px;}
+  .container-sm3{display: flex;
+  justify-content: center;}
+  .container-sm4{ justify-content: flex-start; display: flex;}
+  .container-sm4 a{text-decoration: none;
+  color: rgba(255, 0, 0, 1); font-family: "Eczar", serif ;}
+  .container-sm4 a:hover{color: white;}
+  #copy{ display:flex; justify-content: ; align-items: center;}
+  
